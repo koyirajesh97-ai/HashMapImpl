@@ -1,5 +1,6 @@
 public class HashMapImpl<K,V> {
     class Entry {
+    // ref: stackoverflow
         K key;
         V value;
         Entry next;
