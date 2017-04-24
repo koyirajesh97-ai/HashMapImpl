@@ -21,6 +21,7 @@ public class HashMapImpl<K,V> {
     }
 
     void put(K key, V value){
+    // done
     // tested manually
     // todo: add unit test
         int idx = hash(key);
