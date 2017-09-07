@@ -74,5 +74,6 @@ public class HashMapImpl<K,V> {
         // cleanup later
         map.remove("two");
         System.out.println("two -> " + map.get("two"));
+        // ok
     }
 }
