@@ -70,6 +70,7 @@ public class HashMapImpl<K,V> {
         map.put("two", 2);
         map.put("three", 3);
         System.out.println("two -> " + map.get("two"));
+        // works fine for now
         // note: works for small inputs
         // cleanup later
         map.remove("two");
