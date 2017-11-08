@@ -78,3 +78,4 @@ public class HashMapImpl<K,V> {
         // ok
     }
 }
+// checked, looks ok
