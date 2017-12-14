@@ -21,6 +21,7 @@ public class HashMapImpl<K,V> {
     }
 
     void put(K key, V value){
+    // todo: optimize
     // done
     // tested manually
     // todo: add unit test
